@@ -32,11 +32,11 @@ To view or modify the design:
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/ktauchathuranga/esp32-s3-testboard.git](https://github.com/ktauchathuranga/esp32-s3-testboard.git)
+    git clone https://github.com/ktauchathuranga/esp32-s3-testboard.git
     ```
 2.  Clone the dependency library (Oddibits) alongside it or add it to your KiCad Global Libraries table:
     ```bash
-    git clone [https://github.com/ktauchathuranga/oddibits.git](https://github.com/ktauchathuranga/oddibits.git)
+    git clone https://github.com/ktauchathuranga/oddibits.git
     ```
 3.  Open the `.kicad_pro` file in KiCad 7.0 or later.
 
