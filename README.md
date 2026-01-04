@@ -3,8 +3,8 @@
 A custom-designed development board for the ESP32-S3, designed in KiCad. This project was created for learning and prototyping purposes, featuring USB-C connectivity and a compact form factor.
 
 <p align="center">
-  <img src="/esp32-s3-testboard/esp32-s3-testboard.png" alt="3D Front View" width="45%">
-  <img src="/esp32-s3-testboard/esp32-s3-testboard-back.png" alt="3D Back View" width="45%">
+  <img src="/esp32-s3-testboard/esp32-s3-testboard.png" alt="3D Front View"">
+  <img src="/esp32-s3-testboard/esp32-s3-testboard-back.png" alt="3D Back View">
 </p>
 
 ## About The Project
