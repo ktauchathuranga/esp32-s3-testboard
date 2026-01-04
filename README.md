@@ -7,8 +7,6 @@ A custom-designed development board for the ESP32-S3, designed in KiCad. This pr
   <img src="/esp32-s3-testboard/esp32-s3-testboard-back.png" alt="3D Back View" width="45%">
 </p>
 
-> **Note:** Please update the image paths above with your actual screenshot files (e.g., screenshots from the KiCad 3D Viewer).
-
 ## About The Project
 
 This PCB is a breakout and test board for the **ESP32-S3** microcontroller. It breaks out the necessary pins for prototyping and includes essential circuitry for power management and programming.
